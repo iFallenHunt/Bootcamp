@@ -58,7 +58,7 @@ Para executar o projeto, importe-o para sua IDE (como IntelliJ IDEA) e execute a
 
 ## Autor
 
-Desenvolvido por [iFallenHunt]
+Desenvolvido por Lucas Santos
 
 ## Licença
 
