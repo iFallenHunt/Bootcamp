@@ -60,7 +60,7 @@ To run the project, import it into your IDE (such as IntelliJ IDEA) and execute 
 
 ## Author
 
-Developed by [iFallenHunt]
+Developed by Lucas Santos
 
 ## License
 
